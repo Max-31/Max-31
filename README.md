@@ -62,13 +62,30 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
 
 ### 🚀 My Projects
 
-- <img width="100" height="100" alt="HangmanLogo_text" valign="middle" src="https://github.com/user-attachments/assets/9420a8dc-0638-4313-ad65-fac8443210ab" /> &nbsp; **[Hangman](https://github.com/Max-31/Hangman):** A classic Hangman game built with the **MERN stack**.
-- <img width="100" height="100" alt="NoteMax-logo1 0" valign="middle" src="https://github.com/user-attachments/assets/7640a8a4-636d-47bb-9f1c-f327a6f33767" /> &nbsp; **[NoteMax](https://github.com/Max-31/NoteMax):** A handy note-taking application built with **MERN stack**.
-- <img width="100" height="100" alt="clockIcon3" valign="middle" src="https://github.com/user-attachments/assets/9a461bc8-7525-4760-b3cb-ce9b9c2916d8" /> &nbsp; **[ClockMax](https://github.com/Max-31/ClockMax):** A minimalistic and futuristic clock extension for Edge with **JavaScript**.
-- <img src="https://github.com/user-attachments/assets/d566ec73-73ad-4c76-9021-b17c38a954a7" width="100" height="100" valign="middle" alt="QR Generator Logo"> &nbsp; **[QR-Max](https://github.com/Max-31/QR-Max):** A simple and easy-to-use QR code generator from text or url with **JavaScript**.
-  
----
+<table>
+  <tr>
+    <td>
+      <img width="100" height="100" alt="HangmanLogo_text" valign="middle" src="https://github.com/user-attachments/assets/9420a8dc-0638-4313-ad65-fac8443210ab" /> &nbsp; <strong><a href="https://github.com/Max-31/Hangman">Hangman</a>:</strong> A classic Hangman game built with the <strong>MERN stack</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="100" height="100" alt="NoteMax-logo1 0" valign="middle" src="https://github.com/user-attachments/assets/7640a8a4-636d-47bb-9f1c-f327a6f33767" /> &nbsp; <strong><a href="https://github.com/Max-31/NoteMax">NoteMax</a>:</strong> A handy note-taking application built with <strong>MERN stack</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="100" height="100" alt="clockIcon3" valign="middle" src="https://github.com/user-attachments/assets/9a461bc8-7525-4760-b3cb-ce9b9c2916d8" /> &nbsp; <strong><a href="https://github.com/Max-31/ClockMax">ClockMax</a>:</strong> A minimalistic and futuristic clock extension for Edge with <strong>JavaScript</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="100" height="130" alt="Blue and Purple Gradient Qr Code Flyer" valign="middle" src="https://github.com/user-attachments/assets/50214248-3ddd-432c-a608-ac8253134cfe" /> &nbsp; <strong><a href="https://github.com/Max-31/QR-Max">QR-Max</a>:</strong> A simple and easy-to-use QR code generator from text or url with <strong>JavaScript</strong>.
+    </td>
+  </tr>
+</table>
 
+---
 ### 🤝 My Contributions
 
 - Contributed to **[kumararnab11/MindFuel](https://github.com/kumararnab11/MindFuel)**
