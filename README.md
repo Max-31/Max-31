@@ -11,6 +11,7 @@
 I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data Structures and Algorithms (DSA)**. I love building dynamic web applications, solving complex problems, and actively participating in **Competitive Programming Contests**.
 
 - 🏆 **ICPC Regionalist 2023**
+- 💼 Check out my Portfolio: **[MaxFolio](https://max-31.github.io/Maxfolio/)**
 - 🔭 I’m currently working on full-stack web applications.
 - 📫 You can reach me at: **nathrajarshi25@gmail.com**
 
@@ -22,10 +23,7 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
   <a href="https://leetcode.com/u/Max_Raj_31/">
     <img src="https://leetcode-stats.vercel.app/api?username=Max_Raj_31" alt="LeetCode Stats" />
   </a>
-  <!-- <a href="https://www.codechef.com/users/rajarshinath77">
-    <img src="https://codechef-card.vercel.app/api/rajarshinath77" alt="CodeChef Stats" />
-  </a> -->
-</p>
+  </p>
 
 ---
 
@@ -88,9 +86,9 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
 ---
 ### 🤝 My Contributions
 
-- Contributed to **[kumararnab11/MindFuel](https://github.com/kumararnab11/MindFuel)**
-- Contributed to **[SAKET687/CODER-S-DASHBOARD](https://github.com/SAKET687/CODER-S-DASHBOARD)**
-- Contributed to **[mainak0907/BugVaani](https://github.com/mainak0907/BugVaani)**
+- Contributed to **[MindFuel](https://github.com/kumararnab11/MindFuel)**
+- Contributed to **[CODER-S-DASHBOARD](https://github.com/SAKET687/CODER-S-DASHBOARD)**
+- Contributed to **[BugVaani](https://github.com/mainak0907/BugVaani)**
 
 ---
 
@@ -101,7 +99,6 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
     <img src="https://github-readme-stats.vercel.app/api?username=Max-31&show_icons=true&theme=radical&rank_icon=github" alt="Max-31's GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-31&theme=radical" alt="GitHub Streak" />
     <br>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-31&layout=compact&theme=radical" alt="Top Languages" /> -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-31&layout=compact&theme=radical&hide=typescript" alt="Top Languages" />
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=Max-31&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
