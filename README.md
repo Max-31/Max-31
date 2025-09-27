@@ -1,10 +1,12 @@
 <p align="center">
   <img width="500" height="500" src="https://github.com/user-attachments/assets/1df99fe7-82c5-4cea-b544-180d9046c341" width="100%">
-
 </p>
 
 <h1 align="center">Hi, I'm friendly neighbourhood Max (Rajarshi Nath)👋</h1>
 <h3 align="center">A MERN Stack Developer & Competitive Programmer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Max-31&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+</p>
 
 I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data Structures and Algorithms (DSA)**. I love building dynamic web applications, solving complex problems, and actively participating in **Competitive Programming Contests**.
 
