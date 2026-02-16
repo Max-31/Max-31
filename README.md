@@ -96,11 +96,11 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
 
 <p align="center">
   <a href="https://github.com/Max-31">
-    <img src="https://github-readme-stats.vercel.app/api?username=Max-31&show_icons=true&theme=radical&rank_icon=github" alt="Max-31's GitHub stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Max-31&show_icons=true&theme=radical&rank_icon=github" alt="Max-31's GitHub stats" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-31&theme=radical" alt="GitHub Streak" />
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-31&layout=compact&theme=radical&hide=typescript" alt="Top Languages" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-31&layout=compact&theme=radical&hide=typescript" alt="Top Languages" /> -->
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Max-31&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Max-31&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> -->
   </a>
 </p>
