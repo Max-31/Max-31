@@ -21,9 +21,9 @@ I'm a passionate **MERN Stack Developer** with a strong proficiency in **Data St
 
 <p align="center">
   <a href="https://leetcode.com/u/Max_Raj_31/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Max_Raj_31" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Max_Raj_31?theme=dark&font=Biryani&ext=contest" alt="LeetCode Stats" />
   </a>
-  </p>
+</p>
 
 ---
 
